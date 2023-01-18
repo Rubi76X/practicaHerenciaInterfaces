@@ -1,5 +1,5 @@
 # Práctica Herencia e Interfaces
-### Curso Oracle Next Education
+### Curso alura latam - One Next Education
 
 ## Temas vistos
 - Declaración de los atributos privados
