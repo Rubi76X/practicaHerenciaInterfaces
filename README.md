@@ -8,7 +8,7 @@
 - Sobreescritura de métodos
 - Compartiendo el código de forma segura
 - Evitar código duplicado usando el concepto de herencia
-- Uso de la palabra reservada super
+- Uso de la palabra reservada Super
 - Métodos y atributos privados y protegidos
 - Cómo identificar que tipo de clase está siendo instanciada.
 - Mostrar errores de ejecución para condiciones personalizadas
