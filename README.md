@@ -1,5 +1,5 @@
 # Práctica Herencia e Interfaces
-### Curso alura latam - One Next Education
+### Curso Alura Latam - One Next Education
 
 ## Temas vistos
 - Declaración de los atributos privados
@@ -19,7 +19,7 @@
 - Maneras de tratar objetos de diferentes tipos, de forma similar
 - Operador in
 - Operador instanceOf
-- Como validar propiedades y tipos para proteger nuestros sistemas
+- Cómo validar propiedades y tipos para proteger nuestros sistemas
 - Interfaces normalizadas
 - Duck Type
 
